@@ -79,5 +79,6 @@ Follow these steps to get a local copy of the project up and running:
 
 
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback is highly appreciated!
+app is deployed on netlify --here is the link --- https://66855cedc8c86e243b16cac0--cosmic-fairy-38da25.netlify.app/
 
 Happy coding! 🖥️✨
