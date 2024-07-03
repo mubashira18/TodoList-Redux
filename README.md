@@ -7,7 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [License](#license)
 
 ## Overview
 
